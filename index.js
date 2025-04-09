@@ -73,6 +73,9 @@ const jssThree = ["Liam", "Mia", "Noah", "Olivia", "Ava", "Sophia", "Isabella", 
 
 // Each array must contain 10 student names as string values.
 
+console.log("jssOne:", jssOne);
+console.log("jssTwo:", jssTwo);
+console.log("jssThree:", jssThree);
 
 
 
